@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  type_of_shot: MyString
+  point: 1
+  team_played: MyString
+
+two:
+  type_of_shot: MyString
+  point: 1
+  team_played: MyString

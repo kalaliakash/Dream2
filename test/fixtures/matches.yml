@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  match_name: MyString
+  duration: 2023-04-21 19:50:09
+  location: MyString
+  match_status: MyString
+  winner: MyString
+
+two:
+  match_name: MyString
+  duration: 2023-04-21 19:50:09
+  location: MyString
+  match_status: MyString
+  winner: MyString

@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name_of_contest: MyString
+  contest_type: MyString
+  entry_fee: 1
+  status_match: MyString
+
+two:
+  name_of_contest: MyString
+  contest_type: MyString
+  entry_fee: 1
+  status_match: MyString
